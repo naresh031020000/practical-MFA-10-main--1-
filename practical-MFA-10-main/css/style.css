@@ -1,0 +1,61 @@
+body{
+    background-color: hsl(217, 54%, 11%) ;
+    font-size: 18px;
+}
+
+.main{
+    color:white;
+    /* border: 1px solid white; */
+    background-color: #15273f;
+    width: 450px;
+    height: 670px;
+    margin:  auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.main1{
+    margin-left: 50px;
+    
+    margin-right: 90px;
+    margin-top: 20px;
+
+}
+.mainimage{
+    width: 350px;
+    border-radius: 10px;
+    position: relative;
+    right: 10px;
+    
+}
+
+.separate{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+    padding-bottom: 30px;
+    
+}
+.avatarmain{
+    position: relative;
+    bottom: 30px;
+}
+
+.avatar{
+
+     border: 1px solid white;
+     border-radius: 50%;
+     margin-right:20px ;
+     
+}
+
+.avatar1{
+    margin-left: 100px;
+    position: relative;
+    bottom: 30px;
+}
+span{
+    word-spacing: 5px;
+}
